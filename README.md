@@ -1,3 +1,6 @@
+# Overview
+![image](https://github.com/truonghet/udacity-starter-website/assets/9692983/e65d59ef-7aa2-467c-9953-dcb7d1afe2d8)
+
 # Endpoint
 - S3 Bucket Endpoint: http://my-111506957757-bucket.s3-website-us-east-1.amazonaws.com/
 - Cloudfront Distribution Endpoint: https://d2w01cqwoxgapn.cloudfront.net/
